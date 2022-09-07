@@ -1,0 +1,15 @@
+{
+  "name": "hhink/webman-sms",
+  "type": "library",
+  "license": "MIT",
+  "description": "Webman plugin hhink/webman-sms",
+  "require": {
+    "php": ">=7.0",
+    "overtrue/easy-sms": ">=2.2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Hhink\\WebmanSms\\": "src"
+    }
+  }
+}
